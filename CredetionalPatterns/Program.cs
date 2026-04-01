@@ -9,6 +9,7 @@ class Program
 {
     static void Main()
     {
+        Console.OutputEncoding = System.Text.Encoding.UTF8;
         Singleton.Instance.Show();
         
         Creator creator = new ConcreteCreator();

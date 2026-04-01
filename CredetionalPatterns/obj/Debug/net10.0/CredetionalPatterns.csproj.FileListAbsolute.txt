@@ -1,0 +1,15 @@
+D:\UNIVERCITY\Paterns\lab1\CredetionalPatterns\bin\Debug\net10.0\CredetionalPatterns.exe
+D:\UNIVERCITY\Paterns\lab1\CredetionalPatterns\bin\Debug\net10.0\CredetionalPatterns.deps.json
+D:\UNIVERCITY\Paterns\lab1\CredetionalPatterns\bin\Debug\net10.0\CredetionalPatterns.runtimeconfig.json
+D:\UNIVERCITY\Paterns\lab1\CredetionalPatterns\bin\Debug\net10.0\CredetionalPatterns.dll
+D:\UNIVERCITY\Paterns\lab1\CredetionalPatterns\bin\Debug\net10.0\CredetionalPatterns.pdb
+D:\UNIVERCITY\Paterns\lab1\CredetionalPatterns\obj\Debug\net10.0\CredetionalPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERCITY\Paterns\lab1\CredetionalPatterns\obj\Debug\net10.0\CredetionalPatterns.AssemblyInfoInputs.cache
+D:\UNIVERCITY\Paterns\lab1\CredetionalPatterns\obj\Debug\net10.0\CredetionalPatterns.AssemblyInfo.cs
+D:\UNIVERCITY\Paterns\lab1\CredetionalPatterns\obj\Debug\net10.0\CredetionalPatterns.csproj.CoreCompileInputs.cache
+D:\UNIVERCITY\Paterns\lab1\CredetionalPatterns\obj\Debug\net10.0\CredetionalPatterns.sourcelink.json
+D:\UNIVERCITY\Paterns\lab1\CredetionalPatterns\obj\Debug\net10.0\CredetionalPatterns.dll
+D:\UNIVERCITY\Paterns\lab1\CredetionalPatterns\obj\Debug\net10.0\refint\CredetionalPatterns.dll
+D:\UNIVERCITY\Paterns\lab1\CredetionalPatterns\obj\Debug\net10.0\CredetionalPatterns.pdb
+D:\UNIVERCITY\Paterns\lab1\CredetionalPatterns\obj\Debug\net10.0\CredetionalPatterns.genruntimeconfig.cache
+D:\UNIVERCITY\Paterns\lab1\CredetionalPatterns\obj\Debug\net10.0\ref\CredetionalPatterns.dll

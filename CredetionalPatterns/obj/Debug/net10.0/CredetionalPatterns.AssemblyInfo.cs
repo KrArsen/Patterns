@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CredetionalPatterns")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f192d97794929b1c747b0a2085befcf5a9a0db6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c667df9fcb93c1eeaff36c34428ab8b82e91fa23")]
 [assembly: System.Reflection.AssemblyProductAttribute("CredetionalPatterns")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CredetionalPatterns")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
