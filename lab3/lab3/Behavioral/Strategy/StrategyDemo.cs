@@ -24,7 +24,7 @@ namespace BehavioralPatterns.Strategy
             var result = _strategy.DoAlgorithm(new List<string> { "a", "b", "c", "d", "e" });
 
             string resultStr = string.Empty;
-            foreach (var element in result)
+            foreach (var element in result as List<string>)
             {
                 resultStr += element + ",";
             }
