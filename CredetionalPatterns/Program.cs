@@ -1,15 +1,27 @@
-﻿using CreationalPatterns.Singleton;
+using System;
+using CreationalPatterns.Singleton;
 using CreationalPatterns.FactoryMethod;
 using CreationalPatterns.AbstractFactory;
 using CreationalPatterns.Builder;
 using CreationalPatterns.Prototype;
 using CreationalPatterns.ObjectPool;
 
+// Add new structural pattern namespaces
+using StructuralPatterns.Adapter;
+using StructuralPatterns.Bridge;
+using StructuralPatterns.Composite;
+using StructuralPatterns.Decorator;
+using StructuralPatterns.Facade;
+using StructuralPatterns.Flyweight;
+using StructuralPatterns.Proxy;
+
 class Program
 {
     static void Main()
     {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
+        
+        Console.WriteLine("\n--- CREATIONAL PATTERNS ---");
         Singleton.Instance.Show();
         
         Creator creator = new ConcreteCreator();
@@ -32,5 +44,15 @@ class Program
         var pool = new ObjectPool();
         var obj = pool.GetObject();
         Console.WriteLine("ObjectPool: " + obj);
+
+        Console.WriteLine("\n--- STRUCTURAL PATTERNS ---");
+        AdapterDemo.Show();
+        BridgeDemo.Show();
+        CompositeDemo.Show();
+        DecoratorDemo.Show();
+        FacadeDemo.Show();
+        FlyweightDemo.Show();
+        ProxyDemo.Show();
+        Console.WriteLine();
     }
 }
