@@ -6,7 +6,6 @@ using CreationalPatterns.Builder;
 using CreationalPatterns.Prototype;
 using CreationalPatterns.ObjectPool;
 
-// Add new structural pattern namespaces
 using StructuralPatterns.Adapter;
 using StructuralPatterns.Bridge;
 using StructuralPatterns.Composite;
@@ -15,7 +14,6 @@ using StructuralPatterns.Facade;
 using StructuralPatterns.Flyweight;
 using StructuralPatterns.Proxy;
 
-// Add new behavioral pattern namespaces
 using BehavioralPatterns.ChainOfResponsibility;
 using BehavioralPatterns.Command;
 using BehavioralPatterns.Iterator;
